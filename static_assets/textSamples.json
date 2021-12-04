@@ -1,0 +1,82 @@
+[
+  {
+    "title": "É possível criar um sistema de reconhecimento facial não-racista?",
+    "author": "Sidney Fussel",
+    "source": "https://gizmodo.uol.com.br/criar-sistema-reconhecimento-facial-nao-racista/",
+    "paragraphs": [
+      "À medida que as empresas correm para implementar o reconhecimento facial em todos os lugares, enfrentamos questões difíceis sobre o potencial da tecnologia em intensificar o viés racial.",
+      "O software comercial de reconhecimento facial tem se mostrado repetidamente menos preciso em pessoas com pele mais escura, e os defensores dos direitos civis se preocupam com as maneiras perturbadoras que o reconhecimento facial pode ser usado pela polícia.",
+      "No entanto, esses sistemas continuam a se espalhar pelos EUA em meio a garantias de que algoritmos mais precisos estão a caminho. Mas a implementação de um reconhecimento facial realmente não racista (em oposição a apenas \"daltônico\") é realmente possível?",
+      "No início deste ano, os pesquisadores do MIT Joy Buolamwini e Timnit Gebru destacaram uma das formas como o reconhecimento facial é tendencioso contra os negros: rostos mais escuros são pouco representados nos conjuntos de dados usados para treiná-los, deixando o reconhecimento facial mais impreciso quanto a rostos escuros.",
+      "Os pesquisadores descobriram que quando vários algoritmos de reconhecimento facial foram usados para identificar o gênero, eles classificaram as mulheres de pele escura como homens até 34,7% do tempo. A taxa máxima de erro para os homens de pele clara, por outro lado, era inferior a 1%.",
+      "\"Para falhar uma em três vezes, em um sistema comercial, em algo que foi reduzido a uma tarefa de classificação binária, você tem que se perguntar: isso teria sido permitido se essas taxas de falha estivessem em um subgrupo diferente?\", perguntou Buolamwini em um comunicado de imprensa do MIT.",
+      "No artigo, o classificador de gênero da Microsoft apresentou uma taxa de erro de 20,8% para mulheres de pele escura. Em resposta, a Microsoft anunciou em junho que estava recalibrando os dados de treinamento através da diversificação de tons de pele em imagens de treinamento facial."
+    ]
+  },
+  {
+    "title": "Descoberta em Vênus reacende esperança de achar vida em outros planetas",
+    "author": "Sabrina Brito",
+    "source": "https://veja.abril.com.br/ciencia/descoberta-em-venus-reacende-esperanca-de-achar-vida-em-outros-planetas/",
+    "paragraphs": [
+      "O mito da vida extraterrestre povoa a imaginação humana há quase 2.000 anos. Um dos textos mais antigos sobre o tema foi escrito pelo prosador satírico Luciano de Samósata.",
+      "Por volta de 161 d.C., ele concebeu sua obra mais conhecida, Uma História Verdadeira, que relata uma fantástica viagem do homem à Lua, que seria habitada por moscas do tamanho de elefantes, pássaros com três cabeças, feras de mil dentes e outros seres extravagantes.",
+      "Na era moderna, incontáveis autores, cientistas e pesquisadores de diferentes vertentes recorreram ao assunto, sempre para o delírio do público. Na maioria das vezes, os ETs são descritos como criaturas horrendas, quase sempre de cabeça imensa e antenas, além de possuírem invejável inteligência.",
+      "No último dia 14, surgiu enfim uma das evidências mais sólidas sobre a vida em outros planetas. Sob diversos aspectos, a descoberta é extraordinária, mas ela pode significar uma decepção para os sonhadores: em vez de monstros horripilantes, nosso vizinho espacial deve ser um minúsculo micróbio.",
+      "A novidade: um pool de cientistas de diversos países publicou na revista científica Nature Astronomy um estudo que relata a descoberta de um gás na atmosfera de Vênus. A substância, chamada fosfina, existe também na Terra.",
+      "Eis o pulo do gato: em ambiente terráqueo, a fosfina costuma ser produzida principalmente por micróbios. Portanto, se o gás venusiano tiver as mesmas origens, é possível conceber a ideia da existência de microrganismos vivos nas nuvens do planeta vizinho.",
+      "No artigo, os especialistas afirmam que a quantidade de fosfina encontrada é 10.000 vezes maior do que seria possível se tivesse sido formada por processos não orgânicos, levando-os a sugerir a explicação biológica - ou seja, a vida como a conhecemos. Nunca a ciência esteve tão perto de encontrar ETs.",
+      "A descoberta do gás na atmosfera venusiana é relevante porque, de forma geral, o planeta é considerado hostil à vida.",
+      "Na sua superfície, a temperatura ultrapassa os 400 graus, as nuvens que o encobrem permanentemente são ácidas e a pressão atmosférica é noventa vezes maior do que a encontrada na Terra, no nível do mar. Diante disso, como seria possível haver vida por lá? A resposta pode estar no próprio Planeta Azul.",
+      "Por aqui, já foram encontrados microrganismos capazes de viver em ambientes predominantemente ácidos, em grandes altitudes e até em profundidades abissais. Talvez, imaginam os pesquisadores, não seja diferente em Vênus.",
+      "Como não poderia deixar de ser, a descoberta suscitou um amplo debate a respeito da possibilidade de vida fora da Terra. Há uma corrente cada vez mais robusta de cientistas para a qual é possível, para não dizer provável, a existência de seres alienígenas.",
+      "Nesse aspecto, devem-se tomar alguns cuidados. Por si só a palavra \"alienígena\" desperta suposições fantasiosas (os seres inteligentes de cabeça grande e assustadora), mas a realidade talvez seja outra, como revelou a pesquisa a respeito de Vênus.",
+      "Além disso, o universo é grande demais para que se cravem certezas. De todo modo, o desenvolvimento tecnológico, que permitiu novas técnicas de investigação por meio de telescópios ultrapotentes ou até mesmo novas viagens espaciais, certamente trará em breve novas respostas para a humanidade.",
+      "É inegável que o estudo sobre as nuvens de Vênus representa, no mínimo, uma nova chance para os cientistas desvendarem os enigmas de outro planeta. Se houver a prova definitiva de vida extraterrestre, melhor ainda. Bem ou mal, significará que os humanos não estão sozinhos no universo.",
+      "Obviamente, ter um micróbio como vizinho interplanetário pode não ser excitante para a maioria das pessoas, mas tudo leva a crer que isso é apenas o começo. Como será no futuro, com o avanço tecnológico? Por enquanto, não há resposta para essa pergunta.",
+      "O genial Carl Sagan, que não viveu o suficiente para se deleitar com as incríveis descobertas da ciência espacial, definiu com ironia o que significaria estar só. \"Se não existe vida fora da Terra, então o universo é um grande desperdício de espaço.\". Os microrganismos de Vênus, se de fato existirem, encheriam Sagan de orgulho."
+    ]
+  },
+  {
+    "title": "Aumento da dinamicidade, concentração e entendimento a partir da leitura em imersão orientada na realidade virtual acompanhada por síntese de voz",
+    "author": "Leonardo Clemente Braga da Cruz",
+    "source": "https://www.ppgee.ufmg.br/defesas/1361M.PDF",
+    "paragraphs": [
+      "Seja pela vontade de se informar das notícias, necessidade do aprendizado, obtenção de cultura ou pelo simples entretenimento, é inegável que a leitura é o principal meio cognitivo de ingerir tais informações dentro do cotidiano de nossa sociedade global, entretanto, nota-se, também, que a prioridade relativa ao tempo disponível para a realização de tal atividade é consideravelmente inferiorizada.",
+      "Tem-se, a partir de então, o necessário para o estopim de uma sociedade que não lê, que não adquire conhecimento necessário para desenvolver-se, podendo ser vista, em uma ótica pessimista, como uma sociedade fadada à ser estúpida, incapacitada de ser livre, de vivenciar experiências íntimas e únicas, de conceber ideias inovadoras, e de desenvolver seu senso crítico; e tão ocupada com a correria dos demais afazeres do dia a dia, que nem ao menos percebe a dimensão do problema que a cerca.",
+      "Entretanto, acredita-se, anedota à parte, que ainda há tempo para correr atrás deste prejuízo, e crê-se, que é possível corrigir a fagulha deste problema devidamente enfatizado ao estudar métodos de agilizar o processo de leitura.",
+      "Tal profilaxia da leitura deve ser dada sem a necessidade de sacrificar o valioso tempo do astuto indivíduo que, com prudência, escolhe ler; e sem também colocar em risco o entendimento que o mesmo deve ter ao consumir o material de leitura.",
+      "E afim, então, de ajudar a tornar possível a realização de tal ato homérico, adota-se, neste projeto, duas incríveis ferramentas tecnológicas, sendo a realidade virtual, a primeira, e o mecanismo de síntese de voz, seu complemento.",
+      "A partir da união destas, espera-se ser capaz de obter conhecimento de forma imersiva e quase instantânea, quando comparado à atualidade; transformando, assim, a capacidade do entendimento textual do leitor à nível qualitativo, melhorando seu entendimento e concentração; e à nível temporal, aumentando sua destreza para a realização da leitura."
+    ]
+  },
+  {
+    "title": "Indígenas montam estratégia própria contra a covid-19 em Andirá-Marau",
+    "author": "Bianca Paiva",
+    "source": "https://www.brasildefato.com.br/2020/10/01/indigenas-montam-estrategia-propria-contra-a-covid-19-em-andira-marau",
+    "paragraphs": [
+      "Assim que souberam da pandemia do novo coronavírus, ainda no mês de março, indígenas da etnia Sateré-Mawé, do Amazonas, decidiram montar estratégias próprias para evitar que a doença se espalhasse pela terra indígena Andirá-Marau.",
+      "Essa iniciativa foi alvo de um estudo dos pesquisadores Bader Sawaia e Flávia Busarello, da Pontifícia Universidade Católica de São Paulo, e Renan Albuquerque, da Ufam, a Universidade Federal do Amazonas. Segundo o professor Renan, os indígenas criaram barreiras sanitárias para fiscalizar a circulação de barcos de pesca, recreio e comerciais.",
+      "\"Foi observada a necessidade de trancamento das entradas das terras indígenas. Se cada terra indígena tinha cinco ou sete pontos de acesso principais, então nesses pontos de acesso foram colocadas cancelas. Equipes indígenas se revezavam para fiscalizar quem entrava e quem saía\", explica.",
+      "Renan destaca que a medida adotada pelos sateré ajudou a diminuir os casos da covid-19 dentro das aldeias.",
+      "\"Uma estratégia não hospitalar resolveu muito do não espalhamento do vírus para dentro de terras indígenas. É claro que não impediu. Mas amenizou muito. Demonstrou que soluções comunitárias, caseiras, domésticas, locais, muitas vezes resolvem o problema\", salienta.",
+      "Apesar de ser uma estratégia bem-sucedida para conter o avanço do novo coronavírus, por outro lado, a criação das barreiras sanitárias têm dificultado o acesso dos indígenas aldeados a alimentos que vem de fora. É o que observou o pesquisador.",
+      "\"Na medida em que se formam medidas sanitárias, também é necessário voltar-se à agricultura familiar, caça, pesca, construção de hortas comunitárias. E muitas vezes, nem todas as comunidades que formam uma etnia têm essa disposição e apoio. Construir e manter as barreiras sanitárias nas terras indígenas foi difícil por falta de apoio logístico e alimentar do governo federal\", ressalta."
+    ]
+  },
+  {
+    "title": "Ministra japonesa afirma que Olimpíadas precisam ocorrer em 2021 \"a qualquer preço\"",
+    "author": "Allan Gavioli",
+    "source": "https://www.infomoney.com.br/negocios/ministra-japonesa-afirma-que-olimpiadas-precisam-ocorrer-em-2021-a-qualquer-preco/",
+    "paragraphs": [
+      "Seiko Hashimoto, ministra da Olimpíada no Japão, afirmou nesta terça-feira (8) que os Jogos Olímpicos, remarcados para 2021 por conta da pandemia, precisam ser realizados \"a qualquer preço\".",
+      "Seiko ainda afirmou que a competição deve acontecer para o bem dos próprios atletas, independentemente dos desafios impostos pela Covid-19.",
+      "Agendada originalmente para começar em julho deste ano, as Olimpíadas de 2020 foram adiadas para 2021, por decisão do Comitê Olímpico Internacional (COI) e do governo japonês.",
+      "\"Todos os envolvidos com os Jogos estão trabalhando juntos para se prepararem, e os atletas também estão fazendo esforços consideráveis para o ano que vem\", afirmou a ministra na coletiva.",
+      "\"Acho que temos que realizar os Jogos a qualquer preço\", acrescentou. \"Quero concentrar todos nossos esforços em medidas contra o novo coronavírus.\"",
+      "Segundo informações da agência de notícias Reuters, autoridades do governo japonês, do governo municipal de Tóquio e do Comitê Organizador dos Jogos se reuniram pela primeira vez na semana passada para determinar passos para conter a disseminação da Covid-19 no evento.",
+      "A ministra japonesa não foi a única a defender de forma mais enfática a realização dos jogos. Na última segunda-feira (7), John Coates, vice-presidente do COI, disse, em entrevista à agência de notícias francesa AFP, que a Olimpíada irá acontecer \"com ou sem Covid-19\".",
+      "\"O tema dos Jogos seria Jogos de Reconstrução, depois da devastação do Japão pelo tsunami\", disse ele, referindo-se ao desastre ocorrido no país em 2011. \"Agora serão os Jogos que venceram a covid-19, uma luz no fim do túnel.\".",
+      "Coates também destacou a decisão do governo japonês e do COI em manter a realização das competições, afirmando que o país \"não largou o bastão\", apesar da \"tarefa monumental\" de atrasar a realização em um ano."
+    ]
+  }
+]
